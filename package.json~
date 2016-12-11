@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eldab/DeployHeroku/issues"
   },
-  "homepage": "https://github.com/eldab/DeployHeroku#readme"
+  "homepage": "https://github.com/eldab/DeployHeroku#readme",
+"dependencies": {
+    "express": "^4.14.0"
+  }
 }
